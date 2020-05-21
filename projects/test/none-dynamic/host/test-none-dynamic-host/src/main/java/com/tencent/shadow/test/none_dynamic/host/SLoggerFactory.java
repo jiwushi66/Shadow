@@ -18,8 +18,8 @@
 
 package com.tencent.shadow.test.none_dynamic.host;
 
-import com.tencent.shadow.core.common.ILoggerFactory;
-import com.tencent.shadow.core.common.Logger;
+import c.t.s.core.c.ILoggerFactory;
+import c.t.s.core.c.Logger;
 
 import org.slf4j.LoggerFactory;
 

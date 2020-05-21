@@ -23,12 +23,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.RemoteException;
 
-import com.tencent.shadow.core.common.Logger;
-import com.tencent.shadow.core.common.LoggerFactory;
 import com.tencent.shadow.core.manager.installplugin.InstalledPlugin;
 import com.tencent.shadow.core.manager.installplugin.InstalledType;
 import com.tencent.shadow.core.manager.installplugin.PluginConfig;
-import com.tencent.shadow.dynamic.host.FailedException;
 import com.tencent.shadow.dynamic.manager.PluginManagerThatUseDynamicLoader;
 
 import org.json.JSONException;
@@ -45,6 +42,10 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
+
+import c.t.s.core.c.Logger;
+import c.t.s.core.c.LoggerFactory;
+import c.t.s.d.h.FailedException;
 
 public abstract class FastPluginManager extends PluginManagerThatUseDynamicLoader {
 

@@ -23,9 +23,9 @@ import android.os.Build;
 import android.os.StrictMode;
 import android.webkit.WebView;
 
-import com.tencent.shadow.core.common.LoggerFactory;
-import com.tencent.shadow.dynamic.host.DynamicRuntime;
-import com.tencent.shadow.dynamic.host.PluginManager;
+import c.t.s.core.c.LoggerFactory;
+import c.t.s.d.h.DynamicRuntime;
+import c.t.s.d.h.PluginManager;
 import com.tencent.shadow.test.dynamic.host.manager.Shadow;
 
 import java.io.File;

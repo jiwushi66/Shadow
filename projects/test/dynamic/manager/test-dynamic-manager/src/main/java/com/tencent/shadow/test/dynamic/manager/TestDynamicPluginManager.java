@@ -3,9 +3,10 @@ package com.tencent.shadow.test.dynamic.manager;
 import android.content.Context;
 import android.os.Bundle;
 
-import com.tencent.shadow.dynamic.host.EnterCallback;
-import com.tencent.shadow.dynamic.host.PluginManagerImpl;
 import com.tencent.shadow.test.lib.constant.Constant;
+
+import c.t.s.d.h.EnterCallback;
+import c.t.s.d.h.PluginManagerImpl;
 
 final public class TestDynamicPluginManager implements PluginManagerImpl {
     final private ActivityTestDynamicPluginManager activityPluginManager;

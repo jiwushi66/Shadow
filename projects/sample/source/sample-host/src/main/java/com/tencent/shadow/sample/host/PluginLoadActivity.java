@@ -24,8 +24,9 @@ import android.os.Handler;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.tencent.shadow.dynamic.host.EnterCallback;
 import com.tencent.shadow.sample.constant.Constant;
+
+import c.t.s.d.h.EnterCallback;
 
 
 public class PluginLoadActivity extends Activity {

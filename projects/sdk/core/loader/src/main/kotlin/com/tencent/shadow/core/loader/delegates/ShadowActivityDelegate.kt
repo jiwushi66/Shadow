@@ -29,7 +29,7 @@ import android.content.res.Resources
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.WindowManager
-import com.tencent.shadow.core.common.LoggerFactory
+import c.t.s.core.c.LoggerFactory
 import com.tencent.shadow.core.loader.BuildConfig
 import com.tencent.shadow.core.loader.infos.PluginActivityInfo
 import com.tencent.shadow.core.loader.managers.ComponentManager.Companion.CM_ACTIVITY_INFO_KEY

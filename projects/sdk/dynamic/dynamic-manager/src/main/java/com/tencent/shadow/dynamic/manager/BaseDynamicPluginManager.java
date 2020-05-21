@@ -8,17 +8,16 @@ import android.os.Bundle;
 import android.os.IBinder;
 import android.os.Looper;
 import android.os.Parcel;
-import android.os.RemoteException;
 
-import com.tencent.shadow.core.common.InstalledApk;
-import com.tencent.shadow.core.common.Logger;
-import com.tencent.shadow.core.common.LoggerFactory;
+import c.t.s.core.c.InstalledApk;
+import c.t.s.core.c.Logger;
+import c.t.s.core.c.LoggerFactory;
 import com.tencent.shadow.core.load_parameters.LoadParameters;
 import com.tencent.shadow.core.manager.BasePluginManager;
 import com.tencent.shadow.core.manager.installplugin.InstalledPlugin;
 import com.tencent.shadow.core.manager.installplugin.InstalledType;
-import com.tencent.shadow.dynamic.host.FailedException;
-import com.tencent.shadow.dynamic.host.NotFoundException;
+import c.t.s.d.h.FailedException;
+import c.t.s.d.h.NotFoundException;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;

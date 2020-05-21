@@ -18,8 +18,8 @@
 
 package com.tencent.shadow.core.loader.blocs
 
-import com.tencent.shadow.core.common.InstalledApk
-import com.tencent.shadow.core.common.Logger
+import c.t.s.core.c.InstalledApk
+import c.t.s.core.c.Logger
 import com.tencent.shadow.core.load_parameters.LoadParameters
 import com.tencent.shadow.core.loader.classloaders.CombineClassLoader
 import com.tencent.shadow.core.loader.classloaders.PluginClassLoader

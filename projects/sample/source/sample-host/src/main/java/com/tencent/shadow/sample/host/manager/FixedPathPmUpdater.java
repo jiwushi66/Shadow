@@ -18,10 +18,10 @@
 
 package com.tencent.shadow.sample.host.manager;
 
-import com.tencent.shadow.dynamic.host.PluginManagerUpdater;
-
 import java.io.File;
 import java.util.concurrent.Future;
+
+import c.t.s.d.h.PluginManagerUpdater;
 
 public class FixedPathPmUpdater implements PluginManagerUpdater {
 

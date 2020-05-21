@@ -18,10 +18,10 @@
 
 package com.tencent.shadow.sample.host.manager;
 
-import com.tencent.shadow.dynamic.host.DynamicPluginManager;
-import com.tencent.shadow.dynamic.host.PluginManager;
-
 import java.io.File;
+
+import c.t.s.d.h.DynamicPluginManager;
+import c.t.s.d.h.PluginManager;
 
 public class Shadow {
 

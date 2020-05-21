@@ -20,8 +20,8 @@ package com.tencent.shadow.dynamic.loader.impl
 
 import android.content.Intent
 import android.os.IBinder
-import com.tencent.shadow.dynamic.host.PluginLoaderImpl
-import com.tencent.shadow.dynamic.host.UuidManager
+import c.t.s.d.h.PluginLoaderImpl
+import c.t.s.d.h.UuidManager
 import com.tencent.shadow.dynamic.loader.PluginLoader
 
 internal class PluginLoaderBinder(private val mDynamicPluginLoader: DynamicPluginLoader) : android.os.Binder(), PluginLoaderImpl {

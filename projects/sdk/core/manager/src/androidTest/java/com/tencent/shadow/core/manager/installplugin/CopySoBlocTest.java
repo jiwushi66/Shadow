@@ -4,7 +4,7 @@ import android.content.Context;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
 
-import com.tencent.shadow.core.common.LoggerFactory;
+import c.t.s.core.c.LoggerFactory;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.After;

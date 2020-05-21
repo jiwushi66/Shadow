@@ -29,7 +29,7 @@ import android.os.CancellationSignal
 import android.os.ParcelFileDescriptor
 
 import com.tencent.shadow.core.loader.managers.PluginContentProviderManager
-import com.tencent.shadow.core.runtime.container.HostContentProviderDelegate
+import c.t.s.core.r.c.HostContentProviderDelegate
 
 class ShadowContentProviderDelegate(private val mProviderManager: PluginContentProviderManager) : ShadowDelegate(), HostContentProviderDelegate {
 

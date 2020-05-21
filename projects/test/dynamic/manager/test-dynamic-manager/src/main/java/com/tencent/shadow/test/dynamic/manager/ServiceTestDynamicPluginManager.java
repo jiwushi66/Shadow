@@ -25,13 +25,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 
 import com.tencent.shadow.core.manager.installplugin.InstalledPlugin;
-import com.tencent.shadow.dynamic.host.EnterCallback;
 import com.tencent.shadow.test.cases.PluginServiceConnectionTestCase;
 import com.tencent.shadow.test.lib.constant.Constant;
 import com.tencent.shadow.test.lib.test_manager.TestManager;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+
+import c.t.s.d.h.EnterCallback;
 
 /**
  * 针对plugin-service-for-host插件

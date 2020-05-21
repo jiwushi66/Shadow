@@ -24,13 +24,13 @@ import android.os.DeadObjectException;
 import android.os.IBinder;
 import android.os.RemoteException;
 
-import com.tencent.shadow.core.common.Logger;
-import com.tencent.shadow.core.common.LoggerFactory;
-import com.tencent.shadow.dynamic.host.FailedException;
-import com.tencent.shadow.dynamic.host.PluginManagerImpl;
-import com.tencent.shadow.dynamic.host.PluginProcessService;
-import com.tencent.shadow.dynamic.host.PpsController;
-import com.tencent.shadow.dynamic.host.PpsStatus;
+import c.t.s.core.c.Logger;
+import c.t.s.core.c.LoggerFactory;
+import c.t.s.d.h.FailedException;
+import c.t.s.d.h.PluginManagerImpl;
+import c.t.s.d.h.PluginProcessService;
+import c.t.s.d.h.PpsController;
+import c.t.s.d.h.PpsStatus;
 import com.tencent.shadow.dynamic.loader.PluginLoader;
 
 public abstract class PluginManagerThatUseDynamicLoader extends BaseDynamicPluginManager implements PluginManagerImpl {

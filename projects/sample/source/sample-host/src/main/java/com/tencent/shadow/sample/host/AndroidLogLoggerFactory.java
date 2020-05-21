@@ -20,8 +20,8 @@ package com.tencent.shadow.sample.host;
 
 import android.util.Log;
 
-import com.tencent.shadow.core.common.ILoggerFactory;
-import com.tencent.shadow.core.common.Logger;
+import c.t.s.core.c.ILoggerFactory;
+import c.t.s.core.c.Logger;
 
 import java.util.HashMap;
 import java.util.Map;

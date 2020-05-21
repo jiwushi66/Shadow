@@ -18,8 +18,8 @@
 
 package com.tencent.shadow.core.manager.installplugin;
 
-import com.tencent.shadow.core.common.Logger;
-import com.tencent.shadow.core.common.LoggerFactory;
+import c.t.s.core.c.Logger;
+import c.t.s.core.c.LoggerFactory;
 
 import java.io.File;
 import java.io.FileInputStream;

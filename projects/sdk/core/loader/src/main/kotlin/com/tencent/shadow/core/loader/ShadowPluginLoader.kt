@@ -23,8 +23,8 @@ import android.content.pm.PackageInfo
 import android.os.Handler
 import android.os.Looper
 import android.os.Parcel
-import com.tencent.shadow.core.common.InstalledApk
-import com.tencent.shadow.core.common.LoggerFactory
+import c.t.s.core.c.InstalledApk
+import c.t.s.core.c.LoggerFactory
 import com.tencent.shadow.core.load_parameters.LoadParameters
 import com.tencent.shadow.core.loader.blocs.LoadPluginBloc
 import com.tencent.shadow.core.loader.delegates.DI
@@ -37,6 +37,8 @@ import com.tencent.shadow.core.loader.managers.ComponentManager
 import com.tencent.shadow.core.loader.managers.PluginContentProviderManager
 import com.tencent.shadow.core.loader.managers.PluginServiceManager
 import com.tencent.shadow.core.runtime.UriConverter
+import c.t.s.core.r.c.ContentProviderDelegateProvider
+import c.t.s.core.r.c.HostContentProviderDelegate
 import com.tencent.shadow.core.runtime.container.*
 import java.util.concurrent.CountDownLatch
 import java.util.concurrent.Executors

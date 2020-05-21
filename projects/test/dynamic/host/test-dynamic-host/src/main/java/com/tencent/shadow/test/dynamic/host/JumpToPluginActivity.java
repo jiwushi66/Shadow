@@ -22,7 +22,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.tencent.shadow.dynamic.host.EnterCallback;
+import c.t.s.d.h.EnterCallback;
 import com.tencent.shadow.test.lib.constant.Constant;
 import com.tencent.shadow.test.lib.test_manager.SimpleIdlingResource;
 

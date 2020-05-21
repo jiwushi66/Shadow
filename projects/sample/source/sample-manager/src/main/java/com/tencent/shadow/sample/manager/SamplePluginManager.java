@@ -25,11 +25,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 
 import com.tencent.shadow.core.manager.installplugin.InstalledPlugin;
-import com.tencent.shadow.dynamic.host.EnterCallback;
 import com.tencent.shadow.sample.constant.Constant;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+
+import c.t.s.d.h.EnterCallback;
 
 
 public class SamplePluginManager extends FastPluginManager {

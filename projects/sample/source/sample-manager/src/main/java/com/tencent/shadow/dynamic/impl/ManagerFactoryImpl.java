@@ -20,9 +20,10 @@ package com.tencent.shadow.dynamic.impl;
 
 import android.content.Context;
 
-import com.tencent.shadow.dynamic.host.ManagerFactory;
-import com.tencent.shadow.dynamic.host.PluginManagerImpl;
 import com.tencent.shadow.sample.manager.SamplePluginManager;
+
+import c.t.s.d.h.ManagerFactory;
+import c.t.s.d.h.PluginManagerImpl;
 
 /**
  * 此类包名及类名固定

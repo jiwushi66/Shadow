@@ -19,8 +19,8 @@
 package com.tencent.shadow.dynamic.loader.impl
 
 import android.content.Context
-import com.tencent.shadow.dynamic.host.LoaderFactory
-import com.tencent.shadow.dynamic.host.PluginLoaderImpl
+import c.t.s.d.h.LoaderFactory
+import c.t.s.d.h.PluginLoaderImpl
 
 open class LoaderFactoryImpl : LoaderFactory {
     override fun buildLoader(p0: String, p2: Context): PluginLoaderImpl {

@@ -24,7 +24,7 @@ import android.os.Handler;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.tencent.shadow.dynamic.host.EnterCallback;
+import c.t.s.d.h.EnterCallback;
 import com.tencent.shadow.test.lib.constant.Constant;
 
 

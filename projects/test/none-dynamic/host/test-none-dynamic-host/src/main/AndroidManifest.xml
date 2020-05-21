@@ -97,7 +97,7 @@
 
 
         <provider
-            android:name="com.tencent.shadow.core.runtime.container.PluginContainerContentProvider"
+            android:name="c.t.s.core.r.c.PluginContainerContentProvider"
             android:authorities="com.tencent.shadow.contentprovider.authority"
             android:exported="true" />
     </application>

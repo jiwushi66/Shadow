@@ -20,7 +20,7 @@ package com.tencent.shadow.test.none_dynamic.host;
 
 import android.content.Context;
 
-import com.tencent.shadow.core.common.InstalledApk;
+import c.t.s.core.c.InstalledApk;
 
 import org.apache.commons.io.FileUtils;
 import org.slf4j.Logger;

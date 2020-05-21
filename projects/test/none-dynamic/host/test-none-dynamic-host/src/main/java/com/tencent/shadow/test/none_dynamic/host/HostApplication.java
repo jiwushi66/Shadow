@@ -24,20 +24,17 @@ import android.os.Build;
 import android.os.Parcel;
 import android.os.StrictMode;
 
-import com.tencent.shadow.core.common.InstalledApk;
-import com.tencent.shadow.core.common.LoggerFactory;
+import c.t.s.core.c.InstalledApk;
+import c.t.s.core.c.LoggerFactory;
 import com.tencent.shadow.core.load_parameters.LoadParameters;
 import com.tencent.shadow.core.loader.ShadowPluginLoader;
-import com.tencent.shadow.core.loader.exceptions.LoadPluginException;
-import com.tencent.shadow.core.runtime.container.ContentProviderDelegateProviderHolder;
+import c.t.s.core.r.c.ContentProviderDelegateProviderHolder;
 import com.tencent.shadow.core.runtime.container.DelegateProviderHolder;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
-import java.util.concurrent.TimeoutException;
 
 public class HostApplication extends Application {
     private static Application sApp;

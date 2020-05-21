@@ -18,7 +18,7 @@
 
 package com.tencent.shadow.test.dynamic.host;
 
-import com.tencent.shadow.dynamic.host.PluginProcessService;
+import c.t.s.d.h.PluginProcessService;
 
 public class PluginServiceProcessPPS extends PluginProcessService {
 }

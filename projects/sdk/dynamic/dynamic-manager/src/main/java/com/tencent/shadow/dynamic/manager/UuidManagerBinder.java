@@ -20,10 +20,10 @@ package com.tencent.shadow.dynamic.manager;
 
 import android.os.Parcel;
 
-import com.tencent.shadow.core.common.InstalledApk;
-import com.tencent.shadow.dynamic.host.FailedException;
-import com.tencent.shadow.dynamic.host.NotFoundException;
-import com.tencent.shadow.dynamic.host.UuidManager;
+import c.t.s.core.c.InstalledApk;
+import c.t.s.d.h.FailedException;
+import c.t.s.d.h.NotFoundException;
+import c.t.s.d.h.UuidManager;
 
 class UuidManagerBinder extends android.os.Binder {
 

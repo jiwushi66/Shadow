@@ -6,13 +6,13 @@ import android.os.DeadObjectException;
 import android.os.IBinder;
 import android.os.RemoteException;
 
-import com.tencent.shadow.core.common.Logger;
-import com.tencent.shadow.core.common.LoggerFactory;
-import com.tencent.shadow.dynamic.host.FailedException;
-import com.tencent.shadow.dynamic.host.PluginManagerImpl;
-import com.tencent.shadow.dynamic.host.PpsStatus;
-import com.tencent.shadow.dynamic.host.MultiLoaderPluginProcessService;
-import com.tencent.shadow.dynamic.host.MultiLoaderPpsController;
+import c.t.s.core.c.Logger;
+import c.t.s.core.c.LoggerFactory;
+import c.t.s.d.h.FailedException;
+import c.t.s.d.h.PluginManagerImpl;
+import c.t.s.d.h.PpsStatus;
+import c.t.s.d.h.MultiLoaderPluginProcessService;
+import c.t.s.d.h.MultiLoaderPpsController;
 import com.tencent.shadow.dynamic.loader.PluginLoader;
 
 
